@@ -1,4 +1,4 @@
-# Este es el github de **ANTONIO �VILA DELGADO** (2� ASIR)
+# Este es el github de **ANTONIO ÁVILA DELGADO** (2º ASIR)
 ## En este proyecto usamos 3 estrategias para uso de funciones. La que sigue MVC será la de multiplicar.
 Creamos un nuevo proyecto y dentro de esa carpeta:
 >npm init --yes
